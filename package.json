@@ -1,0 +1,23 @@
+{
+  "name": "buluodev-blog",
+  "version": "0.0.0",
+  "description": "兴趣部落技术团队博客",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blog",
+    "buluodev"
+  ],
+  "author": "xcatliu <xcatliu@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buluodev/blog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/buluodev/blog/issues"
+  },
+  "homepage": "https://github.com/buluodev/blog#readme"
+}
